@@ -1,5 +1,5 @@
 # Primeiros passos com Jesus
 
-Estudo bíblico para o primeiro encontro de discipulado depois do batismo. Inclui roteiro de 55 minutos, sete fundamentos, cinco passagens complementares e um plano de leitura no Evangelho de Marcos.
+Estudo bíblico para quem começou a seguir Jesus. A página inclui sete fundamentos da vida cristã, cinco passagens complementares e os sete primeiros capítulos do Evangelho de Marcos.
 
-Abra `index.html` em um navegador. O estudo funciona sem dependências externas. O compromisso pessoal e o progresso das leituras são guardados no armazenamento local do navegador.
+Leia em https://edusantospecomercial-byte.github.io/primeiro-encontro-apos-o-batismo/ ou abra `index.html` no navegador.
